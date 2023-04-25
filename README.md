@@ -1,1 +1,2 @@
-# stock-market-analysis-prediction
+# stock-market-analysis-and-prediction
+GitHub repository for researching and forecasting trends in the stock market. It includes code, information, and documentation about statistical analysis, machine learning, and other methods for comprehending the stock market and predicting trends in the future. For investors or analysts who are interested in understanding stock market behaviour, the repository might contain visualisation tools and other useful materials.
